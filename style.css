@@ -2,6 +2,9 @@ body{
     margin: 0px;
     font-family: 'Poppins', sans-serif;
 }
+#intro-line-height{
+    margin-top: 50px;
+}
 .text-highlight1{
     color: #363958 ;
 }
