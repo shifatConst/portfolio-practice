@@ -6,7 +6,7 @@ body{
     color: #363958 ;
 }
 .text-highlight2{
-    color: #FF8367;
+    color: #FA705B;
 }
 h1{
     font-size: 50px;
@@ -21,10 +21,20 @@ p{
     width: 100%;
 }
 .button{
-    /* font-family: roboto; */
+
     color: white;
+    font-weight: 700;
     text-decoration: none;
-    background-color: orange;
+    background-color: #4937C3;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.button2{
+
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    background-color: #FA705B;
     padding: 10px 20px;
     border-radius: 5px;
 }
@@ -38,6 +48,7 @@ section{
     padding-left: 2%;
     float: left;
 }
+
 #bg-project{
     text-align: center;
     padding-top: 100px;
@@ -63,13 +74,34 @@ section{
     background-color: #E5E5E5;
     height: 700px;
 }
+
+#tools-id{
+    text-align: center;
+}
+
+.tool-div-mother{
+    display: flex;
+    align-items: center;
+    margin-left: 150px;
+}
+
+.tool-image{
+    margin-top:40px;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding: 50px 30px;
+}
+.tool-image img{
+    height: 150px;
+    width: 150px;
+}
+.tool-image h3{
+    text-align: center;
+}
+
 .inquiry-section{
     height: 500px;
-    /* background-image: url(images/background.png);
-    margin-top: 300px;
-    margin-bottom: 300px;
-    margin-left: 300px;
-    margin-right: 300px; */
+
 }
 .inquiry{
     width: 80%;
@@ -91,14 +123,8 @@ section{
     margin-right: 120px;
 }
 
-/* .social-media{
-    margin-left: auto;
-    margin-right: auto;
-    display: inline-block;
-} */
 .midea-heading{
-    /* margin-top: 100px;
-    padding-bottom: 100px; */
+
     text-align: center;
 }
 #midea-icon{
