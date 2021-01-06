@@ -64,7 +64,7 @@ section{
     height: 700px;
 }
 .inquiry-section{
-    height: 700px;
+    height: 500px;
     /* background-image: url(images/background.png);
     margin-top: 300px;
     margin-bottom: 300px;
@@ -73,7 +73,7 @@ section{
 }
 .inquiry{
     width: 80%;
-    height: 40%;
+    height: 60%;
     margin-left: 150px;
     background-image: url(images/background.png);
     background-size: 100%;
